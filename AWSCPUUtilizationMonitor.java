@@ -1,4 +1,3 @@
-package com.aq.spring.beadashboardweb.util;
 
 import java.util.Date;
 import java.util.List;
